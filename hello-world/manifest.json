@@ -1,0 +1,10 @@
+{
+  "name": "Hello Extensions modify-version",
+  "description": "Base Level Extension",
+  "version": "1.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "bing-cola.png"
+  }
+}
